@@ -45,7 +45,7 @@ public class Exercicio6 {
 		}
 		
 		if (iguais == 0) {
-			System.out.println("Não há valores iguais, logo o vetor C está vazio");
+			System.out.println("Não há valores iguais, portanto o vetor C está vazio.");
 		}else {
 			for(i=0; i<TAM; i++) {
 				for (j=0; j<TAM; j++) {
